@@ -68,13 +68,10 @@ This repository showcases my projects that highlight my skills in web developmen
 - JavaScript
 - HTML/CSS
 
-## Getting Started
 
-To get started with any of the projects, clone the repository and follow the instructions in the individual project README files.
+## Contact Me
 
-## Contact
-
-Feel free to reach out if you have any questions or would like to discuss potential collaborations!
+Don’t hesitate to reach out if you have any questions or want to chat! I'm here to help.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jacklarmany-%23181717?style=for-the-badge&logo=github)](https://github.com/jacklarmany)[![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
 [![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jlarmany)
