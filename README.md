@@ -8,7 +8,6 @@ I build efficient and scalable web applications using modern technologies. With 
 - 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
-- 🌏 **Based in Vientiane, Laos: I'm living in Vientiane, Laos.**
 
 
 ## 🛠 Skills
