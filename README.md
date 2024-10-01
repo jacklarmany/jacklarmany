@@ -39,4 +39,4 @@ I’m passionate about creating efficient and scalable web applications using mo
 
 [![GitHub](https://img.shields.io/badge/GitHub-jacklarmany-%23181717?style=for-the-badge&logo=github)](https://github.com/jacklarmany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack_Larmany-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jacklarmany)
-[![Personal Blog](https://img.shields.io/badge/Blog-Jack's%20Blog-orange?style=for-the-badge&logo=dev.to)](https://example.com)
+[![Personal Blog](https://img.shields.io/badge/Blog-Jack's%20Blog-orange?style=for-the-badge&logo=dev.to)](https://laosprogram.com)
