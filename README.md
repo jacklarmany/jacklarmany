@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer & Backend Expert
 
-I build efficient and scalable web applications using modern technologies. With extensive experience in both frontend and backend development, I create seamless user experiences and powerful backends that integrate perfectly..
+I build efficient and scalable web applications using modern technologies.With extensive experience in both frontend and backend development, I create frontends (user interfaces) and backends that work together perfectly.
 
 - 🚀 **Currently working on full-stack projects**
 - 👍 **Expertise: React, Yii2, and building APIs**
