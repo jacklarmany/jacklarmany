@@ -60,6 +60,8 @@ This repository showcases my projects that highlight my skills in web developmen
 ## Technologies Used
 
 - Yii2
+- React
+- Node.js
 - PHP
 - MySQL
 - JavaScript
