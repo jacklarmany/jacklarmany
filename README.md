@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer & Backend Expert
 
-I’m passionate about creating efficient and scalable web applications using modern technologies. With extensive experience in both frontend and backend development, I build seamless user experiences and powerful backends that work together perfectly.
+I build efficient and scalable web applications using modern technologies. With extensive experience in both frontend and backend development, I create seamless user experiences and powerful backends that integrate perfectly..
 
 - 🌏 **Based in Vientiane, Laos**
 - 🚀 **Currently working on full-stack projects with over 4 years of experience**
@@ -10,13 +10,12 @@ I’m passionate about creating efficient and scalable web applications using mo
 - 📱 **WhatsApp: [+856 20 95358959](https://wa.me/8562095358959)**
 - 💡 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
-- 🤝 **Open to collaborations on innovative projects and startups**
-- 🎮 **Tech enthusiast and problem-solver**
+- ❤️ **Tech enthusiast and problem-solver**
 
 ## 🛠 Skills
 
 ### Frontend:
-- **React**: Building dynamic, responsive user interfaces
+- **React, Bootstrap, MUI, Ant**: Building dynamic, responsive user interfaces
 - **JavaScript/HTML/CSS**: Core web technologies for creating interactive UIs
 
 ### Backend:
@@ -28,16 +27,18 @@ I’m passionate about creating efficient and scalable web applications using mo
 - **MySQL**: Managing and optimizing databases for scalable applications
 
 ### Web Servers:
-- **Apache**: Expertise in configuring and managing Apache servers
-- **NginX**: Proficient in setting up and managing high-performance NginX servers
+- **Apache**: Proficient in configuring and managing Apache servers
+- **NginX**: can setting up and managing NginX servers
 
-## 🔧 Tech Stack
+### Version Control:
+- **Git**: Version control system for tracking changes in code.
+- **GitHub**: Platform for hosting repositories and collaborating on projects using branching, merging, and CI/CD pipelines with Sourcetree.
 
-- **Frontend**: React, Bootstrap, MUI, Ant
-- **Backend**: Yii2, PHP, Node.js
-- **Database**: MySQL
-- **Version Control**: Git, GitHub, Sourcetree (collaborating using branching, merging, and CI/CD pipelines)
-- **Tools**: PhpStorm, Vs Code, Postman ...
+## 🛠 Tools:
+- **PhpStorm**: IDE for PHP development with advanced features.
+- **VS Code**: Versatile code editor with extensive language support.
+- **Postman**: Tool for testing and documenting APIs.
+
 
 ## 🔗 Feel free to connect with me
 
