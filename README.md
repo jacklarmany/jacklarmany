@@ -64,6 +64,7 @@ This repository showcases my projects that highlight my skills in web developmen
 - Node.js
 - PHP
 - MySQL
+- Bootstrap
 - JavaScript
 - HTML/CSS
 
