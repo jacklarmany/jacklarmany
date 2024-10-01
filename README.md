@@ -9,9 +9,7 @@ I build efficient and scalable web applications using modern technologies. With 
 - 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
-## 🛠 Skills
-- 📧 **You can reach me at [jacklarmany@gmail.com](mailto:jacklarmany@gmail.com)**
-- 📱 **WhatsApp: [+856 20 95358959](https://wa.me/8562095358959)**
+
 
 ## 🛠 Skills
 
