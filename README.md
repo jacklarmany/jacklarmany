@@ -38,6 +38,39 @@ I build efficient and scalable web applications using modern technologies.With e
 - **VS Code**: Code editor with extensive support for many programming languages..
 - **Postman**: Tool for testing and documenting APIs.
 
+# My Work Achievements
+
+## Projects
+
+- **[RMS](https://github.com/yourusername/RMS)**: A Restaurant Management System developed using Yii2, designed to streamline restaurant operations and enhance customer service.
+
+- **[LarmanyPOS](https://github.com/yourusername/LarmanyPOS)**: A point-of-sale program that facilitates sales transactions and inventory management for retail businesses.
+
+- **[OneCofe](https://github.com/yourusername/OneCofe)**: A coffee sales management system that helps track sales, manage inventory, and improve customer experience.
+
+- **[M-PawnShop](https://github.com/yourusername/M-PawnShop)**: A pawn shop management system that allows easy tracking of pawned items, customer records, and transactions.
+
+## Overview
+
+This repository showcases my projects that highlight my skills in web development, particularly in creating user-friendly interfaces and robust back-end systems.
+
+## Technologies Used
+
+- Yii2
+- PHP
+- MySQL
+- JavaScript
+- HTML/CSS
+
+## Getting Started
+
+To get started with any of the projects, clone the repository and follow the instructions in the individual project README files.
+
+## Contact
+
+Feel free to reach out if you have any questions or would like to discuss potential collaborations!
+
+
 
 ## 🔗 Feel free to connect with me
 
