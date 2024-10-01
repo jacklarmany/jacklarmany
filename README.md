@@ -8,7 +8,7 @@ I build efficient and scalable web applications using modern technologies.With e
 - 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
-- 🧑‍💻 **I have over 4 years of experience in web development**
+- 🧑‍💻 **I have over 7 years of experience in web development**
 
 
 ## 🛠 Skills
