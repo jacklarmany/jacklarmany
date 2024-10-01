@@ -4,10 +4,11 @@
 
 I build efficient and scalable web applications using modern technologies. With extensive experience in both frontend and backend development, I create seamless user experiences and powerful backends that integrate perfectly..
 
-- 🚀 **Currently working on full-stack projects with over 4 years of experience**
+- 🚀 **Currently working on full-stack projects**
 - 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
+- 🧑‍💻 **I have over 4 years of experience in web development**
 
 
 ## 🛠 Skills
