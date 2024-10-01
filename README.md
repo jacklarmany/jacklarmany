@@ -4,11 +4,11 @@
 
 I build efficient and scalable web applications using modern technologies. With extensive experience in both frontend and backend development, I create seamless user experiences and powerful backends that integrate perfectly..
 
-- 🌏 **Based in Vientiane, Laos**
+- 🌏 **Based in Vientiane, Laos: I'm living in Vientiane, Laos.**
 - 🚀 **Currently working on full-stack projects with over 4 years of experience**
 - 📧 **You can reach me at [jacklarmany@gmail.com](mailto:jacklarmany@gmail.com)**
 - 📱 **WhatsApp: [+856 20 95358959](https://wa.me/8562095358959)**
-- 💡 **Expertise: React, Yii2, and building APIs**
+- 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
 
@@ -42,7 +42,6 @@ I build efficient and scalable web applications using modern technologies. With 
 
 ## 🔗 Feel free to connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-jacklarmany-%23181717?style=for-the-badge&logo=github)](https://github.com/jacklarmany)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack_Larmany-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jacklarmany)
+[![GitHub](https://img.shields.io/badge/GitHub-jacklarmany-%23181717?style=for-the-badge&logo=github)](https://github.com/jacklarmany)[![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
 [![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jlarmany)
 [![Personal Blog](https://img.shields.io/badge/Blog-Jack's%20Blog-orange?style=for-the-badge&logo=dev.to)](https://example.com)
