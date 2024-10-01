@@ -50,7 +50,7 @@ I build efficient and scalable web applications using modern technologies.With e
 
 - **[M-PawnShop](https://github.com/jacklarmany/M-PawnShop)**: A pawn shop management system that allows easy tracking of pawned items, customer records, and transactions.
 
-- **[M-PawnShop](https://github.com/jacklarmany/Ghouse)**: A guesthouse management system that enables easy tracking of reservations, guest records, and transactions.
+- **[Ghouse](https://github.com/jacklarmany/Ghouse)**: A guesthouse management system that enables easy tracking of reservations, guest records, and transactions.
 
 
 ## Overview
