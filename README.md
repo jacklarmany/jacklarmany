@@ -23,11 +23,11 @@ I build efficient and scalable web applications using modern technologies.With e
 - **Node.js**: Using for real-time applications and API development
 
 ### Database:
-- **MySQL**
+- **MySQL**:  is the database used to store and manage data
 
 ### Web Servers:
-- **Apache**: Proficient in configuring and managing Apache servers.
-- **NginX**: Proficient in setting up and managing Nginx servers.
+- **Apache**: Proficient in configuring and managing Apache servers
+- **NginX**: Proficient in setting up and managing Nginx servers
 
 ### Version Control:
 - **Git**: Version control system for tracking changes in code.
@@ -35,7 +35,7 @@ I build efficient and scalable web applications using modern technologies.With e
 
 ## 🛠 Tools:
 - **PhpStorm**: IDE for PHP development with advanced features.
-- **VS Code**: Versatile code editor with extensive language support.
+- **VS Code**: Code editor with extensive support for many programming languages..
 - **Postman**: Tool for testing and documenting APIs.
 
 
