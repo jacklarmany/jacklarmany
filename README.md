@@ -25,8 +25,8 @@ I build efficient and scalable web applications using modern technologies. With 
 - **MySQL**
 
 ### Web Servers:
-- **Apache**: Proficient in configuring and managing Apache servers
-- **NginX**: can setting up and managing NginX servers
+- **Apache**: Proficient in configuring and managing Apache servers.
+- **NginX**: Proficient in setting up and managing Nginx servers.
 
 ### Version Control:
 - **Git**: Version control system for tracking changes in code.
