@@ -19,7 +19,7 @@ I build efficient and scalable web applications using modern technologies.With e
 
 ### Backend:
 - **PHP**: Extensive experience in server-side programming
-- **Yii2**: Robust backend development with powerful API design
+- **Yii2**: is well-known as a framework for full-stack web development, and powerful API design capabilities.
 - **Node.js**: Using for real-time applications and API development
 
 ### Database:
