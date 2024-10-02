@@ -78,6 +78,7 @@ Technologies Used
 
 Don’t hesitate to reach out if you have any questions or want to chat! I'm here to help.
 
-[![GitHub](https://img.shields.io/badge/GitHub-jacklarmany-%23181717?style=for-the-badge&logo=github)](https://github.com/jacklarmany)[![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
+[![TikTok](https://img.shields.io/badge/TikTok-jacklarmany-%23000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@jacklarmany)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
 [![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jlarmany)
 [![Personal Blog](https://img.shields.io/badge/Blog-Jack's%20Blog-orange?style=for-the-badge&logo=dev.to)](https://example.com)
