@@ -53,11 +53,9 @@ I build efficient and scalable web applications using modern technologies.With e
 - **[Ghouse](https://github.com/jacklarmany/Ghouse)**: A guesthouse management system that enables easy tracking of reservations, guest records, and transactions.
 
 
-## Overview
-
 This repository showcases my projects that highlight my skills in web development, particularly in creating user-friendly interfaces and robust back-end systems.
 
-## Technologies Used
+Technologies Used
 
 - Yii2
 - React
